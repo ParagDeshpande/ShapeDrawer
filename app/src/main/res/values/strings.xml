@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shape Drawer</string>
+    <string name="CIRCLE">CIRCLE</string>
+    <string name="RECTANGLE">RECTANGLE</string>
+    <string name="SQUARE">SQUARE</string>
+    <string name="TRIANGLE">TRIANGLE</string>
+    <string name="ELLIPSE">ELLIPSE</string>
+    <string name="EXIT">EXIT</string>
+</resources>
